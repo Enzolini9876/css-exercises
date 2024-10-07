@@ -7,8 +7,13 @@ body {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
+  height: 100px;
   padding: 0px;
   margin: 0px;
+  text-align: left;
+  text-indent: 10%;
+  /* vertical-align: middle; */
+  line-height: 100px;
 }
 
 .two {
@@ -16,13 +21,22 @@ body {
   border: 3px solid purple;
   /* CHANGE ME */
   margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: -30px;
+  width: 110%;
 }
 
 .three {
   background: peachpuff;
   border: 3px solid brown;
-  width: 200px;
+  width: 300px;
   /* CHANGE ME */
+  margin-top: 10%;
+  margin-left: 50%;
   padding: 0px;
-  margin-left: 0px;
+  height: 150px;
+  text-align: left;
+  text-indent: 10%;
+  line-height: 150px;
+  /* margin-left: 0px; */
 }

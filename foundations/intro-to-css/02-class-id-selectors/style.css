@@ -1,0 +1,16 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#id1{
+    color: #4685e4;
+    font-size: 36px;
+    
+}
+
+#id2{
+    background-color: #adff2f;
+    font-size: 24px;
+    font-weight: bold;
+}
